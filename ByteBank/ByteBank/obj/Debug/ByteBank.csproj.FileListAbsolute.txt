@@ -1,6 +1,0 @@
-C:\Users\welber.pereira\source\repos\alura\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
-C:\Users\welber.pereira\source\repos\alura\ByteBank\ByteBank\bin\Debug\ByteBank.exe
-C:\Users\welber.pereira\source\repos\alura\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
-C:\Users\welber.pereira\source\repos\alura\ByteBank\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
-C:\Users\welber.pereira\source\repos\alura\ByteBank\ByteBank\obj\Debug\ByteBank.exe
-C:\Users\welber.pereira\source\repos\alura\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
